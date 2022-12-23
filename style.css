@@ -2,13 +2,12 @@ body {
     margin: auto;
 }
 
-/*      HOME PAGE BACKGROUND CODE      */
 img {
     padding: 10px;
     width: 1895px;
     height: 895px;
 }
-/*      HOME PAGE CONTENT CODE      */
+
 body .pic-one {
     display: flex;
     align-content: center;
@@ -61,7 +60,6 @@ p {
     color: #3daca8;
 }
 
-/*      ABOUT ME CONTENT CODE      */
 .pic-two {
     display: flex;
     align-content: flex-start;
@@ -122,8 +120,6 @@ p {
     margin-top: 50px;
 }
 
-
-
 #about .button {
     display: flex;
     align-content: flex-start;
@@ -141,7 +137,6 @@ p {
     text-decoration: none;
 }
 
-/*      GALLERY CONTENT CODE      */
 #gallery h2 {
     display: flex;
     align-content: flex-start;
@@ -336,8 +331,6 @@ p {
     color: #787166;
     font-weight: normal;
 }
-
-/*      FINALE PROJECT CONTENT CODE      */
 
 #final h1 {
     display: flex;
