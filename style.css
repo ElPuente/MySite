@@ -229,8 +229,6 @@ p {
     border-radius: 20px;
 }
 
-
-
 #gallery video {
     display: flex;
     align-content: flex-start;
@@ -242,6 +240,18 @@ p {
     height: 260px;
     border-radius: 20px;
 }
+
+.stars {
+    display: flex;
+    align-content: flex-start;
+    justify-content: center;
+    position: absolute;
+    margin-left: -250px;
+    margin-top: 1900px;
+    width: 410px;
+    height: 260px;
+    border-radius: 20px;
+} 
 
 .seven-pic {
     display: flex;
@@ -296,8 +306,8 @@ p {
     align-content: flex-start;
     justify-content: center;
     position: absolute;
-    margin-left: 330px;
-    margin-top: 1750px;
+    margin-left: 730px;
+    margin-top: 1810px;
     width: 300px;
     height: 250px;
     border-radius: 20px;
