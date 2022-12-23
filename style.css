@@ -1,0 +1,517 @@
+body {
+    margin: auto;
+}
+
+/*      HOME PAGE BACKGROUND CODE      */
+img {
+    padding: 10px;
+    width: 1895px;
+    height: 895px;
+}
+/*      HOME PAGE CONTENT CODE      */
+body .pic-one {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    position: absolute;
+    width: 380px;
+    height: 500px;
+    margin-top: -745px;
+    margin-left: 270px;
+    border: 10px solid white;
+}
+
+body h2 {
+    width: 450px;
+    height: 500px;
+    margin-top: -880px;
+    margin-left: 1250px;
+    font-family: sans-serif;
+}
+
+body h2 a {
+    font-size: 18px;
+    text-decoration: none;
+}
+
+a {
+    color: #3daca8;
+}
+    
+a:hover {
+    color:  #59523f; 
+}
+
+h1 {
+    margin-left: 1100px;
+    margin-top: -150px;
+    font-family: sans-serif;
+    font-size: 60px;
+    color: #3daca8;
+}
+
+p {
+    margin-left: 1300px;
+    margin-top: -40px;
+    font-family: sans-serif;
+}
+
+.home-intro {
+    text-decoration: none;
+    color: #3daca8;
+}
+
+/*      ABOUT ME CONTENT CODE      */
+.pic-two {
+    display: flex;
+    align-content: flex-start;
+    justify-content: center;
+    position: absolute;
+    width: 390px;
+    height: 400px;
+    margin-left: 1230px;
+    margin-top: -690px;
+    border-radius: 250px;
+    border: 10px solid white;
+}
+
+#about h2 {
+    display: flex;
+    position: relative;
+    width: 450px;
+    height: 500px;
+    margin-top: -874px;
+    margin-left: 1250px;
+    font-family: sans-serif;
+}
+
+#about h2 a {
+    font-size: 18px;
+    text-decoration: none;
+}
+
+#about a {
+    color: white;
+}
+    
+#about a:hover {
+    color:  #59523f;
+}
+
+#about h1 {
+    margin-left: 350px;
+    margin-top: -450px;
+    font-family: sans-serif;
+    font-size: 60px;
+    color: #3daca8;
+}
+
+#about p {
+    font-family: sans-serif;
+    font-size: 18px;
+    color: #787166;
+    margin-left: 130px;
+    margin-top: 90px;
+}
+
+#audio {
+    display: flex;
+    align-content: flex-start;
+    justify-content: center;
+    position: absolute;
+    margin-top: 50px;
+}
+
+
+
+#about .button {
+    display: flex;
+    align-content: flex-start;
+    justify-content: center;
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    margin-left: 330px;
+    margin-top: 80px;
+    background-color: #3caca8;
+    font-size: 16px;
+    border-radius: 100%;
+    border: 0;
+    color: #59523f;
+    text-decoration: none;
+}
+
+/*      GALLERY CONTENT CODE      */
+#gallery h2 {
+    display: flex;
+    align-content: flex-start;
+    justify-content: center;
+    position: absolute;
+    width: 450px;
+    height: 500px;
+    margin-top: -475px;
+    margin-left: 1211px;
+    font-family: sans-serif;
+}
+
+#gallery h2 a {
+    font-size: 18px;
+    text-decoration: none;
+}
+
+#gallery a {
+    color: #3daca8;
+}
+    
+#gallery a:hover {
+    color:  #59523f;
+}
+
+#gallery h1 {
+    margin-left: 725px;
+    margin-top: -3300px;
+    font-family: sans-serif;
+    font-size: 80px;
+    color: #3daca8;
+}
+
+.child-one {
+    display: flex;
+    align-content: flex-start;
+    justify-content: center;
+    position: absolute;
+    height: 969px;
+    width: 690px;
+    margin-top: -95px;
+    margin-left: -50px;
+}
+
+.last-pic {
+    display: flex;
+    align-content: flex-start;
+    justify-content: center;
+    position: absolute;
+    margin-left: 2280px;
+    margin-top: 550px;
+    width: 500px;
+    height: 490px;
+    border-radius: 20px;
+}
+
+.two-pic {
+    display: flex;
+    align-content: flex-start;
+    justify-content: center;
+    position: absolute;
+    margin-left: 2280px;
+    margin-top: 1090px;
+    width: 190px;
+    height: 250px;
+    border-radius: 20px;
+}
+
+.third-pic {
+    display: flex;
+    align-content: flex-start;
+    justify-content: center;
+    position: absolute;
+    margin-left: 2650px;
+    margin-top: 2560px;
+    width: 410px;
+    height: 600px;
+    border-radius: 20px;
+}
+
+.four-pic {
+    display: flex;
+    align-content: flex-start;
+    justify-content: center;
+    position: absolute;
+    margin-left: -10px;
+    margin-top: 2400px;
+    width: 410px;
+    height: 600px;
+    border-radius: 20px;
+}
+
+
+
+#gallery video {
+    display: flex;
+    align-content: flex-start;
+    justify-content: center;
+    position: absolute;
+    margin-left: -70px;
+    margin-top: 1600px;
+    width: 410px;
+    height: 260px;
+    border-radius: 20px;
+}
+
+.seven-pic {
+    display: flex;
+    align-content: flex-start;
+    justify-content: center;
+    position: absolute;
+    margin-left: 815px;
+    margin-top: 1600px;
+    width: 410px;
+    height: 250px;
+    border-radius: 20px;
+}
+
+.eight-pic {
+    display: flex;
+    align-content: flex-start;
+    justify-content: center;
+    position: absolute;
+    margin-left: 2020px;
+    margin-top: 2400px;
+    width: 510px;
+    height: 450px;
+    border-radius: 20px;
+}
+
+.nine-pic {
+    display: flex;
+    align-content: flex-start;
+    justify-content: center;
+    position: absolute;
+    margin-left: 950px;
+    margin-top: 2380px;
+    width: 410px;
+    height: 410px;
+    border-radius: 20px;
+}
+
+.ten-pic {
+    display: flex;
+    align-content: flex-start;
+    justify-content: center;
+    position: absolute;
+    margin-left: 1040px;
+    margin-top: 2830px;
+    width: 690px;
+    height: 350px;
+    border-radius: 20px;
+}
+
+#gallery audio {
+    display: flex;
+    align-content: flex-start;
+    justify-content: center;
+    position: absolute;
+    margin-left: 330px;
+    margin-top: 1750px;
+    width: 300px;
+    height: 250px;
+    border-radius: 20px;
+}
+
+#gallery p {
+    display: flex;
+    align-content: flex-start;
+    justify-content: center;
+    position: absolute;
+    margin-left: 180px;
+    margin-top: 790px;
+    width: 600px;
+    height: 250px;
+    font-family: sans-serif;
+    font-size: 18px;
+    color: #787166;
+}
+
+#gallery h3 {
+    display: flex;
+    align-content: flex-start;
+    justify-content: center;
+    position: absolute;
+    margin-left: 1080px;
+    margin-top: 1590px;
+    width: 700px;
+    height: 550px;
+    font-family: sans-serif;
+    font-size: 18px;
+    color: #787166;
+    font-weight: normal;
+}
+
+/*      FINALE PROJECT CONTENT CODE      */
+
+#final h1 {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    position: absolute;
+    margin-left: 130px;
+    margin-top: -2330px;
+    font-family: sans-serif;
+    font-size: 50px;
+    color: white;
+}
+
+#final h2 {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    position: absolute;
+    width: 450px;
+    height: 500px;
+    margin-top: -2713px;
+    margin-left: 1210px;
+    font-family: sans-serif;
+}
+
+ #final h2 a {
+    font-size: 18px;
+    text-decoration: none;
+}
+
+a {
+    color: #3daca8;
+}
+    
+a:hover {
+    color:  #59523f; 
+}
+
+#final video {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    position: absolute;
+    margin-left: 1080px;
+    margin-top: -2490px;
+    width: 700px;
+}
+
+#final .books {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    position: absolute;
+    width: 400px;
+    height: 390px;
+    border-radius: 625px;
+    margin-top: -1600px;
+    margin-left: 270px;
+}
+
+#final p {
+    display: flex;
+    align-content: flex-start;
+    justify-content: center;
+    position: absolute;
+    width: 650px;
+    height: 200px;
+    margin-top: -1673px;
+    margin-left: 1090px;
+    font-family: sans-serif;
+    font-size: 18px;
+    color: white;
+}
+
+#fuente {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    position: absolute;
+    width: 400px;
+    height: 390px;
+    border-radius: 625px;
+    margin-top: -860px;
+    margin-left: 1430px;
+}
+
+#final .computer {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    position: absolute;
+    width: 600px;
+    height: 450px;
+    margin-top: -530px;
+    margin-left: 1020px;
+}
+
+#final h3 {
+    display: flex;
+    align-content: flex-start;
+    justify-content: center;
+    position: absolute;
+    width: 650px;
+    height: 200px;
+    margin-top: -700px;
+    margin-left: 190px;
+    font-family: sans-serif;
+    font-size: 18px;
+    color: white;
+    font-weight: normal;
+}
+
+.reference {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    position: absolute;
+    width: 600px;
+    margin-top: -353px;
+    margin-left: 170px;
+    font-family: sans-serif;
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+}
+
+.reference-One{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    position: absolute;
+    width: 600px;
+    margin-top: -323px;
+    margin-left: 170px;
+    font-family: sans-serif;
+    color: white;
+    text-decoration: none;
+}
+
+.reference-Two{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    position: absolute;
+    width: 600px;
+    margin-top: -293px;
+    margin-left: 170px;
+    font-family: sans-serif;
+    color: white;
+    text-decoration: none;
+}
+
+.reference-Three{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    position: absolute;
+    width: 600px;
+    margin-top: -263px;
+    margin-left: 170px;
+    font-family: sans-serif;
+    color: white;
+    text-decoration: none;
+}
+
+.reference-Four{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    position: absolute;
+    width: 600px;
+    margin-top: -233px;
+    margin-left: 170px;
+    font-family: sans-serif;
+    color: white;
+    text-decoration: none;
+}
